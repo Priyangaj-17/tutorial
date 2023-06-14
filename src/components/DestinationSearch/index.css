@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  background-size: 100%;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 50px;
+}
+
+.user-input {
+}
