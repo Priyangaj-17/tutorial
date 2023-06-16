@@ -1,0 +1,26 @@
+.destinationImage {
+  width: 260px;
+  margin-right: 5px;
+}
+
+.destinationItem {
+  list-style: none;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.ImageName {
+  color: #0f172a;
+  font-weight: 500;
+  text-align: start;
+}
+
+@media screen and (max-width: 767px) {
+  .destinationImage {
+    width: 130px;
+  }
+  .ImageName {
+    font-size: 10px;
+  }
+}
+
+/* Write your CSS here */
